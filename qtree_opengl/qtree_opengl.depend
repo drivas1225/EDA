@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1538052295 source:c:\users\lenovo\desktop\quadtree_gl\qtree_opengl\main.cpp
+	<windows.h>
+	<cstdlib>
+	<time.h>
+	<iostream>
+	<GL/glut.h>
+	<sstream>
+	<fstream>
+	<string>
+	"quadTree.h"
+
+1536111145 c:\users\lenovo\desktop\quadtree_gl\quadtree\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1538495040 c:\users\lenovo\desktop\quadtree_gl\qtree_opengl\quadtree.h
+	<vector>
+	<GL/glut.h>
+	<iostream>
+	<string>
+	<sstream>
+
